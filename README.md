@@ -10,7 +10,7 @@ To facilitate graduate students and researchers in quickly locating papers based
 
 ### [AI-generated Image/Video Detection](https://hongsong-wang.github.io/Visual_Deepfake/) 
 
-### [Human Motion Synthesis(https://hongsong-wang.github.io/HumanMotion/)
+### [Human Motion Synthesis](https://hongsong-wang.github.io/HumanMotion/)
 
 ### [Human Action Understanding](https://hongsong-wang.github.io/ActionUnderstanding/)
 
@@ -18,10 +18,19 @@ To facilitate graduate students and researchers in quickly locating papers based
 
 ### [Visual-Language-Navigation](https://hongsong-wang.github.io/Visual-Language-Navigation/)
 
-### [Zero-Shot/Few-Shot Learning]
+### [Person_Re-Identification](https://hongsong-wang.github.io/Person_Re-Identification/) 
 
+### [Industrial Anomaly Detection](https://hongsong-wang.github.io/Industrial_Anomaly_Detection/)
 
-## Popular Topics of Machine Learning
+## [Visual Quality Assessment](https://hongsong-wang.github.io/Quality_Assessment/)
+
+### [Digital Avatar](https://hongsong-wang.github.io/Digital_Avatar/)
+
+### [3D Generation](https://hongsong-wang.github.io/3D_Generation/)
+
+### [Zero-Shot/Few-Shot Learning](https://hongsong-wang.github.io/Few_Zero_Shot_Learning/)
+
+### [Federated Learning](https://hongsong-wang.github.io/Federated_Learning/)
 
 
 
