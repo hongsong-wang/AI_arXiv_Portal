@@ -6,6 +6,8 @@ The website is [AI_arXiv_Portal](https://hongsong-wang.github.io/AI_arXiv_Portal
 
 Each web page of the topic will be updated regularly. If you want to add a new topic, please provide its keywords in a GitHub Issue. Thank you for your contribution!
 
+We also maintain [CV_Paper_Portal(https://hongsong-wang.github.io/CV_Paper_Portal/) and [BestPaperAwards_AI](https://github.com/hongsong-wang/BestPaperAwards_AI). Please also star these repositories https://github.com/hongsong-wang/CV_Paper_Portal and https://github.com/hongsong-wang/BestPaperAwards_AI if they help you!
+
 ## Popular Topics of Pattern Recognition and Computer Vision
 
 ### [Image Generation](https://hongsong-wang.github.io/Image_Generation/)
