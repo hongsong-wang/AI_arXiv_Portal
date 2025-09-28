@@ -40,6 +40,8 @@ We also maintain [CV_Paper_Portal](https://hongsong-wang.github.io/CV_Paper_Port
 
 ### [AI-generated Image/Video Detection](https://hongsong-wang.github.io/Visual_Deepfake/) 
 
+### [Digital Watermarking](https://hongsong-wang.github.io/Watermarking/)
+
 ### [Visual Quality Assessment](https://hongsong-wang.github.io/Quality_Assessment/)
 
 ### [RGB-Thermal_Vision](https://hongsong-wang.github.io/RGB-Thermal_Vision/)
