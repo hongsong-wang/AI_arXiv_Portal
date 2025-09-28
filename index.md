@@ -12,7 +12,7 @@ Each web page of the topic will be updated regularly. If you want to add a new t
 
 ### [Video Generation](https://hongsong-wang.github.io/Video_Generation/)
 
-### [AI-generated Image/Video Detection](https://hongsong-wang.github.io/Visual_Deepfake/) 
+### [Vision-Language](https://hongsong-wang.github.io/Vision-Language/)
 
 ### [Human Motion Synthesis](https://hongsong-wang.github.io/HumanMotion/)
 
@@ -31,6 +31,8 @@ Each web page of the topic will be updated regularly. If you want to add a new t
 ### [Object Tracking](https://hongsong-wang.github.io/Object_Tracking/)
 
 ### [Industrial Anomaly Detection](https://hongsong-wang.github.io/Industrial_Anomaly_Detection/)
+
+### [AI-generated Image/Video Detection](https://hongsong-wang.github.io/Visual_Deepfake/) 
 
 ### [Visual Quality Assessment](https://hongsong-wang.github.io/Quality_Assessment/)
 
