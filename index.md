@@ -62,6 +62,8 @@ We also maintain [CV_Paper_Portal](https://hongsong-wang.github.io/CV_Paper_Port
 
 ### [World Models](https://hongsong-wang.github.io/World_Models/)
 
+### [Embodied AI](https://hongsong-wang.github.io/Embodied_AI/)
+
 
 ## Popular Topics of AI for Science
 
