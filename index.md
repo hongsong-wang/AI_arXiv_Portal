@@ -60,6 +60,8 @@ We also maintain [CV_Paper_Portal](https://hongsong-wang.github.io/CV_Paper_Port
 
 ### [Large Language Model Agent](https://hongsong-wang.github.io/LLM_Agent/)
 
+### [World Models](https://hongsong-wang.github.io/World_Models/)
+
 
 ## Popular Topics of AI for Science
 
