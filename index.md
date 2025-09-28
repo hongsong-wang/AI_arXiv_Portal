@@ -22,9 +22,9 @@ We also maintain [CV_Paper_Portal](https://hongsong-wang.github.io/CV_Paper_Port
 
 ### [Skeleton-Based Action Understanding](https://hongsong-wang.github.io/Skeleton-Based-Action/)
 
-### [Visual-Language-Navigation](https://hongsong-wang.github.io/Visual-Language-Navigation/)
+### [Visual-Language Navigation](https://hongsong-wang.github.io/Visual-Language-Navigation/)
 
-### [Person_Re-Identification](https://hongsong-wang.github.io/Person_Re-Identification/) 
+### [Person Re-Identification](https://hongsong-wang.github.io/Person_Re-Identification/) 
 
 ### [Object Detection](https://hongsong-wang.github.io/Object_Detection/)
 
@@ -46,7 +46,7 @@ We also maintain [CV_Paper_Portal](https://hongsong-wang.github.io/CV_Paper_Port
 
 ### [Visual Quality Assessment](https://hongsong-wang.github.io/Quality_Assessment/)
 
-### [RGB-Thermal_Vision](https://hongsong-wang.github.io/RGB-Thermal_Vision/)
+### [RGB-Thermal Vision](https://hongsong-wang.github.io/RGB-Thermal_Vision/)
 
 ### [Digital Avatar](https://hongsong-wang.github.io/Digital_Avatar/)
 
