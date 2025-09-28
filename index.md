@@ -34,7 +34,7 @@ Each page of the topic will be updated regularly. If you want to add a new topic
 
 ### [Visual Quality Assessment](https://hongsong-wang.github.io/Quality_Assessment/)
 
-## [RGB-Thermal_Vision](https://hongsong-wang.github.io/RGB-Thermal_Vision/)
+### [RGB-Thermal_Vision](https://hongsong-wang.github.io/RGB-Thermal_Vision/)
 
 ### [Digital Avatar](https://hongsong-wang.github.io/Digital_Avatar/)
 
@@ -43,6 +43,8 @@ Each page of the topic will be updated regularly. If you want to add a new topic
 ### [Zero-Shot/Few-Shot Learning](https://hongsong-wang.github.io/Few_Zero_Shot_Learning/)
 
 ### [Federated Learning](https://hongsong-wang.github.io/Federated_Learning/)
+
+### [Large Language Model Agent](https://hongsong-wang.github.io/LLM_Agent/)
 
 
 
