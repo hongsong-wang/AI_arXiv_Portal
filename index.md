@@ -65,6 +65,8 @@ We also maintain [CV_Paper_Portal](https://hongsong-wang.github.io/CV_Paper_Port
 
 ### [Protein Design](https://hongsong-wang.github.io/Protein_Design/)
 
+### [Physics-Informed AI](https://hongsong-wang.github.io/Physics-Informed_AI/)
+
 
 <div style="background-color: #f6f8fa; padding: 1em; border-radius: 6px; font-family: monospace; white-space: pre-wrap;">
 <code>
