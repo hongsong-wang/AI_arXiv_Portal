@@ -22,7 +22,7 @@ To facilitate graduate students and researchers in quickly locating papers based
 
 ### [Industrial Anomaly Detection](https://hongsong-wang.github.io/Industrial_Anomaly_Detection/)
 
-## [Visual Quality Assessment](https://hongsong-wang.github.io/Quality_Assessment/)
+### [Visual Quality Assessment](https://hongsong-wang.github.io/Quality_Assessment/)
 
 ### [Digital Avatar](https://hongsong-wang.github.io/Digital_Avatar/)
 
