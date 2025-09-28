@@ -24,9 +24,17 @@ Each page of the topic will be updated regularly. If you want to add a new topic
 
 ### [Person_Re-Identification](https://hongsong-wang.github.io/Person_Re-Identification/) 
 
+### [Object Detection](https://hongsong-wang.github.io/Object_Detection/)
+
+### [Object Segmentation](https://hongsong-wang.github.io/Object_Segmentation/)
+
+### [Object Tracking](https://hongsong-wang.github.io/Object_Tracking/)
+
 ### [Industrial Anomaly Detection](https://hongsong-wang.github.io/Industrial_Anomaly_Detection/)
 
 ### [Visual Quality Assessment](https://hongsong-wang.github.io/Quality_Assessment/)
+
+## [RGB-Thermal_Vision](https://hongsong-wang.github.io/RGB-Thermal_Vision/)
 
 ### [Digital Avatar](https://hongsong-wang.github.io/Digital_Avatar/)
 
