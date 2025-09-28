@@ -58,6 +58,10 @@ We also maintain [CV_Paper_Portal](https://hongsong-wang.github.io/CV_Paper_Port
 
 ### [Large Language Model Agent](https://hongsong-wang.github.io/LLM_Agent/)
 
+## Popular Topics of AI for Science
+
+### [Protein Design](https://hongsong-wang.github.io/Protein_Design/)
+
 
 <div style="background-color: #f6f8fa; padding: 1em; border-radius: 6px; font-family: monospace; white-space: pre-wrap;">
 <code>
