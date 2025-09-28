@@ -32,6 +32,8 @@ We also maintain [CV_Paper_Portal](https://hongsong-wang.github.io/CV_Paper_Port
 
 ### [Object Tracking](https://hongsong-wang.github.io/Object_Tracking/)
 
+### [Image/Video Anomaly Detection](https://hongsong-wang.github.io/Anomaly-Detection/)
+
 ### [Industrial Anomaly Detection](https://hongsong-wang.github.io/Industrial_Anomaly_Detection/)
 
 ### [AI-generated Image/Video Detection](https://hongsong-wang.github.io/Visual_Deepfake/) 
