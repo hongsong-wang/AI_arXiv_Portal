@@ -2,7 +2,7 @@
 
 To facilitate graduate students and researchers in quickly locating papers based on keywords, I consolidated the abstracts based on this topic from arXiv and created a webpage.
 
-The website is [AI_arXiv_Portal](https://hongsong-wang.github.io/AI_arXiv_Portal/). Please star this repository [https://github.com/hongsong-wang/AI_arXiv_Portal](https://github.com/hongsong-wang/AI_arXiv_Portal) if it helps you! 
+This website is [AI_arXiv_Portal](https://hongsong-wang.github.io/AI_arXiv_Portal/). Please star this repository [https://github.com/hongsong-wang/AI_arXiv_Portal](https://github.com/hongsong-wang/AI_arXiv_Portal) if it helps you! 
 
 Each web page of the topic will be updated regularly. If you want to add a new topic, please provide its keywords in a GitHub Issue. Thank you for your contribution!
 
