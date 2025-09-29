@@ -58,6 +58,10 @@ We also maintain [CV_Paper_Portal](https://hongsong-wang.github.io/CV_Paper_Port
 
 ### [Continual Learning](https://hongsong-wang.github.io/Continual_Learning/)
 
+### [Out-of-Distribution Detection](https://hongsong-wang.github.io/Out-of-Distribution_Detection/)
+
+### [Out-of-Distribution Generalization](https://hongsong-wang.github.io/Out-of-Distribution_Generalization/)
+
 ### [Weakly Supervised Learning](https://hongsong-wang.github.io/Weakly_Supervised/)
 
 ### [Federated Learning](https://hongsong-wang.github.io/Federated_Learning/)
