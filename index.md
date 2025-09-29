@@ -44,6 +44,8 @@ We also maintain [CV_Paper_Portal](https://hongsong-wang.github.io/CV_Paper_Port
 
 ### [Watermarking](https://hongsong-wang.github.io/Watermarking/)
 
+### [Model Attacks and Defenses](https://hongsong-wang.github.io/Model_Attacks_and_Defenses/)
+
 ### [Visual Quality Assessment](https://hongsong-wang.github.io/Quality_Assessment/)
 
 ### [RGB-Thermal Vision](https://hongsong-wang.github.io/RGB-Thermal_Vision/)
