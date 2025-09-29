@@ -56,6 +56,8 @@ We also maintain [CV_Paper_Portal](https://hongsong-wang.github.io/CV_Paper_Port
 
 ### [Zero-Shot/Few-Shot Learning](https://hongsong-wang.github.io/Few_Zero_Shot_Learning/)
 
+### [Continual Learning](https://hongsong-wang.github.io/Continual_Learning/)
+
 ### [Weakly Supervised Learning](https://hongsong-wang.github.io/Weakly_Supervised/)
 
 ### [Federated Learning](https://hongsong-wang.github.io/Federated_Learning/)
