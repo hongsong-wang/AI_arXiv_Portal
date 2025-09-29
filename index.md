@@ -42,7 +42,7 @@ We also maintain [CV_Paper_Portal](https://hongsong-wang.github.io/CV_Paper_Port
 
 ### [Anti-Spoofing](https://hongsong-wang.github.io/Anti-Spoofing/)
 
-### [Digital Watermarking](https://hongsong-wang.github.io/Watermarking/)
+### [Watermarking](https://hongsong-wang.github.io/Watermarking/)
 
 ### [Visual Quality Assessment](https://hongsong-wang.github.io/Quality_Assessment/)
 
