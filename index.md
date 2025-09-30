@@ -14,6 +14,8 @@ We also maintain [CV_Paper_Portal](https://hongsong-wang.github.io/CV_Paper_Port
 
 ### [Video Generation](https://hongsong-wang.github.io/Video_Generation/)
 
+### [High Resolution Visual Generation](https://hongsong-wang.github.io/High-Resolution_Generation/)
+
 ### [Vision-Language](https://hongsong-wang.github.io/Vision-Language/)
 
 ### [Human Motion Synthesis](https://hongsong-wang.github.io/HumanMotion/)
@@ -73,6 +75,13 @@ We also maintain [CV_Paper_Portal](https://hongsong-wang.github.io/CV_Paper_Port
 ### [World Models](https://hongsong-wang.github.io/World_Models/)
 
 ### [Embodied AI](https://hongsong-wang.github.io/Embodied_AI/)
+
+
+## Popular Topics of Control and Robotics
+
+### [Multi-Robot Systems](https://hongsong-wang.github.io/Multi-Robot_Systems/)
+
+### [Multi-Agent Reinforcement Learning](https://hongsong-wang.github.io/Multi-Agent-Reinforcement/)
 
 
 ## Popular Topics of AI for Science
