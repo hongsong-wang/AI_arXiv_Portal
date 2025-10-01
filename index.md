@@ -16,6 +16,8 @@ We also maintain [CV_Paper_Portal](https://hongsong-wang.github.io/CV_Paper_Port
 
 ### [High Resolution Visual Generation](https://hongsong-wang.github.io/High-Resolution_Generation/)
 
+### [Image Restoration](https://hongsong-wang.github.io/Image_Restoration/)
+
 ### [Vision-Language](https://hongsong-wang.github.io/Vision-Language/)
 
 ### [Human Motion Synthesis](https://hongsong-wang.github.io/HumanMotion/)
