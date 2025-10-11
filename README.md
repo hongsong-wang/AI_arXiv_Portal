@@ -2,11 +2,9 @@
 
 To facilitate graduate students and researchers in quickly locating papers based on keywords, I consolidated the abstracts based on this topic from arXiv and created a webpage.
 
-This website is [AI_arXiv_Portal](https://hongsong-wang.github.io/AI_arXiv_Portal/). Please star this repository [https://github.com/hongsong-wang/AI_arXiv_Portal](https://github.com/hongsong-wang/AI_arXiv_Portal) if it helps you! 
-
 Each web page of the topic will be updated regularly. If you want to add a new topic, please provide its keywords in a GitHub Issue. Thank you for your contribution!
 
-We also maintain [CV_Paper_Portal](https://hongsong-wang.github.io/CV_Paper_Portal/) and [BestPaperAwards_AI](https://github.com/hongsong-wang/BestPaperAwards_AI). Please also star these repositories [https://github.com/hongsong-wang/CV_Paper_Portal](https://github.com/hongsong-wang/CV_Paper_Portal) and [https://github.com/hongsong-wang/BestPaperAwards_AI](https://github.com/hongsong-wang/BestPaperAwards_AI) if they help you!
+This website is [AI_arXiv_Portal](https://hongsong-wang.github.io/AI_arXiv_Portal/). We also maintain [CV_Paper_Portal](https://hongsong-wang.github.io/CV_Paper_Portal/), [CS_arXiv_Paper](https://hongsong-wang.github.io/CS_arXiv_Paper), and [BestPaperAwards_AI](https://github.com/hongsong-wang/BestPaperAwards_AI). Please also star these repositories [https://hongsong-wang.github.io/AI_arXiv_Portal](https://hongsong-wang.github.io/AI_arXiv_Portal), [https://github.com/hongsong-wang/CV_Paper_Portal](https://github.com/hongsong-wang/CV_Paper_Portal), [https://github.com/hongsong-wang/CS_arXiv_Paper](https://github.com/hongsong-wang/CS_arXiv_Paper), and [https://github.com/hongsong-wang/BestPaperAwards_AI](https://github.com/hongsong-wang/BestPaperAwards_AI) if they help you!
 
 # Acknowledgements
 若该网页[AI_arXiv_Portal](https://hongsong-wang.github.io/AI_arXiv_Portal/)对您有所帮助，请在页面右上角点个Star⭐支持一下，谢谢！
