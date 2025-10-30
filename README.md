@@ -6,7 +6,91 @@ Each web page of the topic will be updated regularly. If you want to add a new t
 
 This website is [AI_arXiv_Portal](https://hongsong-wang.github.io/AI_arXiv_Portal/). We also maintain [CV_Paper_Portal](https://hongsong-wang.github.io/CV_Paper_Portal/), [CS_arXiv_Paper](https://hongsong-wang.github.io/CS_arXiv_Paper), and [BestPaperAwards_AI](https://github.com/hongsong-wang/BestPaperAwards_AI). Please also star these repositories [https://hongsong-wang.github.io/AI_arXiv_Portal](https://hongsong-wang.github.io/AI_arXiv_Portal), [https://github.com/hongsong-wang/CV_Paper_Portal](https://github.com/hongsong-wang/CV_Paper_Portal), [https://github.com/hongsong-wang/CS_arXiv_Paper](https://github.com/hongsong-wang/CS_arXiv_Paper), and [https://github.com/hongsong-wang/BestPaperAwards_AI](https://github.com/hongsong-wang/BestPaperAwards_AI) if they help you!
 
-# Acknowledgements
+## Popular Topics of Pattern Recognition and Computer Vision
+
+### [Image Generation](https://hongsong-wang.github.io/Image_Generation/)
+
+### [Video Generation](https://hongsong-wang.github.io/Video_Generation/)
+
+### [High Resolution Visual Generation](https://hongsong-wang.github.io/High-Resolution_Generation/)
+
+### [Image Restoration](https://hongsong-wang.github.io/Image_Restoration/)
+
+### [Vision-Language](https://hongsong-wang.github.io/Vision-Language/)
+
+### [Human Motion Synthesis](https://hongsong-wang.github.io/HumanMotion/)
+
+### [Human Action Understanding](https://hongsong-wang.github.io/ActionUnderstanding/)
+
+### [Skeleton-Based Action Understanding](https://hongsong-wang.github.io/Skeleton-Based-Action/)
+
+### [Visual-Language Navigation](https://hongsong-wang.github.io/Visual-Language-Navigation/)
+
+### [Person Re-Identification](https://hongsong-wang.github.io/Person_Re-Identification/) 
+
+### [Object Detection](https://hongsong-wang.github.io/Object_Detection/)
+
+### [Object Segmentation](https://hongsong-wang.github.io/Object_Segmentation/)
+
+### [Object Tracking](https://hongsong-wang.github.io/Object_Tracking/)
+
+### [Scene Text Understanding](https://hongsong-wang.github.io/Scene_Text_OCR/)
+
+### [Image/Video Anomaly Detection](https://hongsong-wang.github.io/Anomaly-Detection/)
+
+### [Industrial Anomaly Detection](https://hongsong-wang.github.io/Industrial_Anomaly_Detection/)
+
+### [AI-generated Image/Video Detection](https://hongsong-wang.github.io/Visual_Deepfake/) 
+
+### [Anti-Spoofing](https://hongsong-wang.github.io/Anti-Spoofing/)
+
+### [Watermarking](https://hongsong-wang.github.io/Watermarking/)
+
+### [Model Attacks and Defenses](https://hongsong-wang.github.io/Model_Attacks_and_Defenses/)
+
+### [Visual Quality Assessment](https://hongsong-wang.github.io/Quality_Assessment/)
+
+### [RGB-Thermal Vision](https://hongsong-wang.github.io/RGB-Thermal_Vision/)
+
+### [Digital Avatar](https://hongsong-wang.github.io/Digital_Avatar/)
+
+### [3D Generation](https://hongsong-wang.github.io/3D_Generation/)
+
+### [Zero-Shot/Few-Shot Learning](https://hongsong-wang.github.io/Few_Zero_Shot_Learning/)
+
+### [Continual Learning](https://hongsong-wang.github.io/Continual_Learning/)
+
+### [Out-of-Distribution Detection](https://hongsong-wang.github.io/Out-of-Distribution_Detection/)
+
+### [Out-of-Distribution Generalization](https://hongsong-wang.github.io/Out-of-Distribution_Generalization/)
+
+### [Weakly Supervised Learning](https://hongsong-wang.github.io/Weakly_Supervised/)
+
+### [Federated Learning](https://hongsong-wang.github.io/Federated_Learning/)
+
+### [Test-Time Adaptation](https://hongsong-wang.github.io/Test-time-Adaptation/)
+
+### [Large Language Model Agent](https://hongsong-wang.github.io/LLM_Agent/)
+
+### [World Models](https://hongsong-wang.github.io/World_Models/)
+
+### [Embodied AI](https://hongsong-wang.github.io/Embodied_AI/)
+
+
+## Popular Topics of Control and Robotics
+
+### [Multi-Robot Systems](https://hongsong-wang.github.io/Multi-Robot_Systems/)
+
+### [Multi-Agent Reinforcement Learning](https://hongsong-wang.github.io/Multi-Agent-Reinforcement/)
+
+
+## Popular Topics of AI for Science
+
+### [Protein Design](https://hongsong-wang.github.io/Protein_Design/)
+
+### [Physics-Informed AI](https://hongsong-wang.github.io/Physics-Informed_AI/)
+
+## Acknowledgements
 若该网页[AI_arXiv_Portal](https://hongsong-wang.github.io/AI_arXiv_Portal/)对您有所帮助，请在页面右上角点个Star⭐支持一下，谢谢！
 
 如果转载该文档的内容，请注明出处：[https://hongsong-wang.github.io/AI_arXiv_Portal](https://hongsong-wang.github.io/AI_arXiv_Portal)
