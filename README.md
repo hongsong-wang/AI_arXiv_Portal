@@ -6,7 +6,7 @@ Each web page of the topic will be updated regularly. If you want to add a new t
 
 This website is [AI_arXiv_Portal](https://hongsong-wang.github.io/AI_arXiv_Portal/). We also maintain [CV_Paper_Portal](https://hongsong-wang.github.io/CV_Paper_Portal/), [CS_arXiv_Paper](https://hongsong-wang.github.io/CS_arXiv_Paper), and [BestPaperAwards_AI](https://github.com/hongsong-wang/BestPaperAwards_AI). Please also star these repositories [https://hongsong-wang.github.io/AI_arXiv_Portal](https://hongsong-wang.github.io/AI_arXiv_Portal), [https://github.com/hongsong-wang/CV_Paper_Portal](https://github.com/hongsong-wang/CV_Paper_Portal), [https://github.com/hongsong-wang/CS_arXiv_Paper](https://github.com/hongsong-wang/CS_arXiv_Paper), and [https://github.com/hongsong-wang/BestPaperAwards_AI](https://github.com/hongsong-wang/BestPaperAwards_AI) if they help you!
 
-## [ArXiv Paper Search Portal](http://47.102.131.153/) ([arXiv 论文关键词检索网页](http://47.102.131.153/))
+## [ArXiv Paper Search Portal](http://47.102.131.153/) ([arXiv 论文关键词检索网站](http://47.102.131.153/))
  - 📰 **I also create the keyword search webpage for arXiv papers, please visit [http://47.102.131.153/](http://47.102.131.153/)**
 
 ## Popular Topics of Pattern Recognition and Computer Vision
