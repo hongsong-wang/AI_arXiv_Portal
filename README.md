@@ -81,6 +81,9 @@ This website is [AI_arXiv_Portal](https://hongsong-wang.github.io/AI_arXiv_Porta
 
 ### [Embodied AI](https://hongsong-wang.github.io/Embodied_AI/)
 
+### [Humanoid Learning](https://hongsong-wang.github.io/Humanoid/)
+
+### [Audio Forgery, Manipulation](https://hongsong-wang.github.io/AudioDeepfake/)
 
 ## Popular Topics of Control and Robotics
 
