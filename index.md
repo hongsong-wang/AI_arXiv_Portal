@@ -85,6 +85,8 @@ This website is [AI_arXiv_Portal](https://hongsong-wang.github.io/AI_arXiv_Porta
 
 ### [Audio Forgery, Manipulation and Deepfake](https://hongsong-wang.github.io/AudioDeepfake/)
 
+### [Audio/Speech/Music Editing](https://hongsong-wang.github.io/audioedit/)
+
 ## Popular Topics of Control and Robotics
 
 ### [Multi-Robot Systems](https://hongsong-wang.github.io/Multi-Robot_Systems/)
