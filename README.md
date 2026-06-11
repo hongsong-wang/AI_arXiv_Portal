@@ -87,6 +87,8 @@ This website is [AI_arXiv_Portal](https://hongsong-wang.github.io/AI_arXiv_Porta
 
 ### [Audio/Speech/Music Editing](https://hongsong-wang.github.io/audioedit/)
 
+### [Text-to-Audio Generation](https://hongsong-wang.github.io/text2audio/)
+
 ## Popular Topics of Control and Robotics
 
 ### [Multi-Robot Systems](https://hongsong-wang.github.io/Multi-Robot_Systems/)
